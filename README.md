@@ -1,0 +1,3 @@
+- 页面效果图见`appimg`目录
+- <img src="https://gcore.jsdelivr.net/gh/dhjz/TransFile@master/app.png" style="width: 340px;"/>
+- <video src="https://gcore.jsdelivr.net/gh/dhjz/TransFile@master/video.mp4" style="width: 600px;"></video>
